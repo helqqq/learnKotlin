@@ -8,5 +8,8 @@ fun main(args: Array<String>) {
     val age = 22
 //    age = 29  报错
     println("age:" + age)
+    //只读数据
+    val number = "No.123456"
+    println(number)
 
 }
