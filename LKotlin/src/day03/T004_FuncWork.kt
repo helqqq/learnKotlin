@@ -1,7 +1,5 @@
 package day03
 
-import java.util.*
-
 //function 作业
 fun main(args: Array<String>) {
     println(sayHello("张三"))
