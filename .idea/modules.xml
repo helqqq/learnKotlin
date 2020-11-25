@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/KotlinPattern/KotlinPattern.iml" filepath="$PROJECT_DIR$/KotlinPattern/KotlinPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/LKotlin/LKotlin.iml" filepath="$PROJECT_DIR$/LKotlin/LKotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learnKotlin1.iml" filepath="$PROJECT_DIR$/.idea/learnKotlin1.iml" />
     </modules>
